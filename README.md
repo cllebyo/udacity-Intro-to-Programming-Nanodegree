@@ -5,6 +5,7 @@ This repository contains projects for [Udacity's Introduction to Programming Nan
 
 
 #### Part 1: Learn to Code
+Welcome to the Introduction to Programming Nanodegree program. This is your first step on your journey to become a programmer. Get started early with html and feedback from our reviewers!
 
 #### Part 2: Make a Stylish Webpage
 
